@@ -207,11 +207,11 @@ Copyright (c) 2025 [MH-SHUVO20](https://github.com/MH-SHUVO20)
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Project+Owner;Python+%7C+Pandas+%7C+NumPy+%7C+Seaborn;EDA+on+Titanic+Dataset+%7C+2025)
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHUVO20&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MH-SHUVO20)
+![GitHub Streak](https://streak-stats.demolab.com?user=MH-SHUVO20&theme=tokyonight&hide_border=true&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF)
 
 <br/>
 
