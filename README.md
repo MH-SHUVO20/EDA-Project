@@ -161,40 +161,42 @@ Copyright (c) 2025 [MH-SHUVO20](https://github.com/MH-SHUVO20)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=header&text=MD.%20MEHEDI%20HASAN%20SHUVO&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=130&section=header&text=MD.%20MEHEDI%20HASAN%20SHUVO&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/MH-SHUVO20?v=4" width="110" style="border-radius: 50%; border: 3px solid #1F6FEB;" alt="MD. MEHEDI HASAN SHUVO"/>
+<img src="https://github.com/MH-SHUVO20.png" width="110" style="border-radius: 50%; border: 3px solid #1F6FEB;" alt="MD. MEHEDI HASAN SHUVO"/>
 
 <br/><br/>
 
 ### 👨‍💻 MD. MEHEDI HASAN SHUVO
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MH--SHUVO20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MH-SHUVO20)
 [![Profile Views](https://komarev.com/ghpvc/?username=MH-SHUVO20&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)](https://github.com/MH-SHUVO20)
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">🧑‍💼 <strong>Role</strong></td>
-    <td>Project Owner &amp; Data Analyst</td>
+    <td align="center">🧑‍💼 <b>Role</b></td>
+    <td>Project Owner</td>
   </tr>
   <tr>
-    <td align="center">📊 <strong>Project</strong></td>
+    <td align="center">📊 <b>Project</b></td>
     <td>EDA on Titanic Dataset</td>
   </tr>
   <tr>
-    <td align="center">🗓️ <strong>Year</strong></td>
+    <td align="center">🗓️ <b>Year</b></td>
     <td>2025</td>
   </tr>
   <tr>
-    <td align="center">🛠️ <strong>Tools Used</strong></td>
+    <td align="center">🛠️ <b>Tools Used</b></td>
     <td>Python · Pandas · NumPy · Matplotlib · Seaborn</td>
   </tr>
   <tr>
-    <td align="center">📍 <strong>Platform</strong></td>
+    <td align="center">📍 <b>Platform</b></td>
     <td>Google Colab / Jupyter Notebook</td>
   </tr>
 </table>
@@ -215,7 +217,7 @@ Copyright (c) 2025 [MH-SHUVO20](https://github.com/MH-SHUVO20)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=90&section=footer" width="100%"/>
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
 
