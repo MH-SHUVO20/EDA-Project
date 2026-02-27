@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 A structured, end-to-end Exploratory Data Analysis project on the classic Titanic passenger dataset. This project walks through data ingestion, cleaning, univariate and multivariate analysis, and statistical insight extraction using Python's core data science stack.
 
@@ -19,6 +20,7 @@ A structured, end-to-end Exploratory Data Analysis project on the classic Titani
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Results Summary](#results-summary)
+- [License](#license)
 
 ---
 
@@ -45,9 +47,10 @@ This project performs a comprehensive EDA on the Titanic dataset to identify the
 ## Project Structure
 
 ```
-EDA Project/
+EDA-Project/
 │
 ├── Exploratory_Data_Analysis_(EDA)_on_the_Titanic_Dataset.ipynb   # Main analysis notebook
+├── LICENSE                                                          # MIT License
 └── README.md                                                        # Project documentation
 ```
 
@@ -118,13 +121,16 @@ Ensure you have Python 3.8+ installed. Install the required libraries:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/MH-SHUVO20/EDA-Project.git
+cd EDA-Project
+```
+
 ### Running the Notebook
 
 ```bash
-# Clone or navigate to the project directory
-cd "EDA Project"
-
-# Launch Jupyter Notebook
 jupyter notebook Exploratory_Data_Analysis_(EDA)_on_the_Titanic_Dataset.ipynb
 ```
 
@@ -144,4 +150,6 @@ These features form a strong foundation for downstream predictive modeling tasks
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
+
+Copyright (c) 2026 [MH-SHUVO20](https://github.com/MH-SHUVO20)
