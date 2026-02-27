@@ -161,23 +161,63 @@ Copyright (c) 2025 [MH-SHUVO20](https://github.com/MH-SHUVO20)
 
 <div align="center">
 
-| | |
-|---|---|
-| **Name** | MD. MEHEDI HASAN SHUVO |
-| **GitHub** | [@MH-SHUVO20](https://github.com/MH-SHUVO20) |
-| **Role** | Project Owner & Developer |
-| **Project** | EDA on Titanic Dataset |
-| **Year** | 2025 |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=header&text=MD.%20MEHEDI%20HASAN%20SHUVO&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-> 🚀 **This project was fully designed, developed, and completed by MD. MEHEDI HASAN SHUVO in 2025.**
+<img src="https://avatars.githubusercontent.com/u/MH-SHUVO20?v=4" width="110" style="border-radius: 50%; border: 3px solid #1F6FEB;" alt="MD. MEHEDI HASAN SHUVO"/>
+
+<br/><br/>
+
+### 👨‍💻 MD. MEHEDI HASAN SHUVO
+
+[![GitHub](https://img.shields.io/badge/GitHub-MH--SHUVO20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MH-SHUVO20)
+[![Profile Views](https://komarev.com/ghpvc/?username=MH-SHUVO20&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)](https://github.com/MH-SHUVO20)
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">🧑‍💼 <strong>Role</strong></td>
+    <td>Project Owner &amp; Data Analyst</td>
+  </tr>
+  <tr>
+    <td align="center">📊 <strong>Project</strong></td>
+    <td>EDA on Titanic Dataset</td>
+  </tr>
+  <tr>
+    <td align="center">🗓️ <strong>Year</strong></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td align="center">🛠️ <strong>Tools Used</strong></td>
+    <td>Python · Pandas · NumPy · Matplotlib · Seaborn</td>
+  </tr>
+  <tr>
+    <td align="center">📍 <strong>Platform</strong></td>
+    <td>Google Colab / Jupyter Notebook</td>
+  </tr>
+</table>
+
+<br/>
+
+> *"Data is the new oil — and this project refines it into insight."*
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHUVO20&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/MH-SHUVO20)
 
 <br/>
 
 ---
 
-⭐ *If you found this project helpful, please consider giving it a star!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=80&section=footer" width="100%"/>
+
+⭐ **If you found this project helpful, please consider giving it a star!**
 
 **Made with ❤️ by [MD. MEHEDI HASAN SHUVO](https://github.com/MH-SHUVO20) — 2025**
 
