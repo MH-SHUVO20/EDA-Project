@@ -21,6 +21,7 @@ A structured, end-to-end Exploratory Data Analysis project on the classic Titani
 - [Getting Started](#getting-started)
 - [Results Summary](#results-summary)
 - [License](#license)
+- [Author](#author)
 
 ---
 
@@ -152,4 +153,32 @@ These features form a strong foundation for downstream predictive modeling tasks
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
 
-Copyright (c) 2026 [MH-SHUVO20](https://github.com/MH-SHUVO20)
+Copyright (c) 2025 [MH-SHUVO20](https://github.com/MH-SHUVO20)
+
+---
+
+## Author
+
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | MD. MEHEDI HASAN SHUVO |
+| **GitHub** | [@MH-SHUVO20](https://github.com/MH-SHUVO20) |
+| **Role** | Project Owner & Developer |
+| **Project** | EDA on Titanic Dataset |
+| **Year** | 2025 |
+
+<br/>
+
+> 🚀 **This project was fully designed, developed, and completed by MD. MEHEDI HASAN SHUVO in 2025.**
+
+<br/>
+
+---
+
+⭐ *If you found this project helpful, please consider giving it a star!*
+
+**Made with ❤️ by [MD. MEHEDI HASAN SHUVO](https://github.com/MH-SHUVO20) — 2025**
+
+</div>
